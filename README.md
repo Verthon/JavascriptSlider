@@ -5,3 +5,5 @@
  - add caption,
  - add 'next' arrows,
  - add backend(future own CMS);
+
+site is published at https://verthon.github.io/JavascriptSlider/
